@@ -5,7 +5,7 @@ kavenegar api for nestjs.
 ## Installation:
 
 
-``` npm i @webafra/kavenegar_nestjs ```
+``` npm i @webafra/kavenegar-nestjs```
 
 ## Usage:
 
@@ -14,7 +14,7 @@ Import **kavenegarModule** inside your module:
 ```
 // inside SmsModule*.module.ts
 
-import { KavenegarModule } from "@webafra/kavenegar_nestjs"
+import { KavenegarModule } from "@webafra/kavenegar-nestjs"
 
 @Module({
   imports:[
@@ -34,7 +34,7 @@ Inject **KavenegarService** into your service:
 ```
 // inside SmsService*.service.ts
 
-import { KavenegarService } from "@webafra/kavenegar_nestjs";
+import { KavenegarService } from "@webafra/kavenegar-nestjs";
 
 // example message types based on http://kavenegar.com/rest.html
 export interface sendMessage {

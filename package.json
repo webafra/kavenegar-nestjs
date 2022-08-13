@@ -1,5 +1,5 @@
 {
-  "name": "@webafra/kavenegar_nestjs",
+  "name": "@webafra/kavenegar-nestjs",
   "version": "1.0.1",
   "description": "kavenegar api in nestjs code style.",
   "main": "dist/index",
@@ -43,7 +43,7 @@
     "testEnvironment": "node"
   },
   "bugs": {
-    "url": "https://github.com/webafra/kavenegar_nestjs/issues"
+    "url": "https://github.com/webafra/kavenegar-nestjs/issues"
   },
-  "homepage": "https://github.com/webafra/kavenegar_nestjs#readme"
+  "homepage": "https://github.com/webafra/kavenegar-nestjs#readme"
 }
